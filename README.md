@@ -69,7 +69,7 @@ A voxel-based 3D engine built using Python with ModernGL and Pygame. Inspired by
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/voxel-engine.git 
+git clone https://github.com/arjunfps/voxel-engine.git 
 cd voxel-engine
 ```
 
