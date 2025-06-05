@@ -15,7 +15,7 @@ A voxel-based 3D engine built using Python with ModernGL and Pygame. Inspired by
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.11.x
 - ModernGL - OpenGL context management
 - Pygame - Windowing, input handling, and asset loading
 - Numba - Accelerated procedural generation and mesh building
