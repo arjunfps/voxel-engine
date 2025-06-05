@@ -62,7 +62,7 @@ A voxel-based 3D engine built using Python with ModernGL and Pygame. Inspired by
 
 ### Requirements
 
-- Python 3.x
+- Python 3.11.x
 - Libraries: moderngl, pygame, numpy, numba, glm
 
 ### Setup Instructions
