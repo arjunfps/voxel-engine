@@ -75,7 +75,7 @@ cd voxel-engine
 
 2. Install dependencies:
 ```bash
-pip install moderngl pygame numpy numba glm
+pip install -r requirements.txt
 ```
 
 1. Run the engine:
